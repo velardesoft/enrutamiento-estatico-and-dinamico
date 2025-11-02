@@ -33,3 +33,5 @@ Redes y comunicaciones de datos
 > En redes grandes, cambiantes o distribuidas, el dinámico es el estándar.[11]
 
 ***
+
+<img width="1013" height="597" alt="Image" src="https://github.com/user-attachments/assets/ddf4e7b0-c4f7-4257-ab1e-8065f9766c86" />
